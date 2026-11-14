@@ -1,6 +1,6 @@
 # Pooja Barot — Operations Portfolio
 
-Operations-focused version of Pooja Barot's portfolio. Every page leads with operations results; the general version lives in the `poojadbarot.github.io` repo.
+Operations-focused version of Pooja Barot's portfolio. Every page leads with operations results; the general version lives in the `pooja-portfolio` repo.
 
 **Live site:** https://poojadbarot.github.io/pooja-portfolio-operations/
 
